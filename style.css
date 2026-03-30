@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    background-image: url(./podzemnaya-parkovka.jpg);
+    background-size: cover;
+    background-position: center;
+     background-attachment: fixed;
+    color:chocolate ;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+p {
+    font-size: 40px;
+
+}
+
+ol {
+  font-size: 30px;
+  text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+h2.pravila{
+    text-align: center;
+}
