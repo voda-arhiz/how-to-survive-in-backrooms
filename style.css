@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif ;
     font-weight: bold;
-    background-image: url(./podzemnaya-parkovka.jpg);
+    background-image: url(./backrooms.png);
     background-size: cover;
     background-position: center;
      background-attachment: fixed;
@@ -14,11 +14,13 @@ h1 {
     color: red;
 }
 p {
-    font-size: 40px;
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: center;
 
 }
 
-ol {
+ul {
   font-size: 30px;
   text-align: center;
 }
@@ -27,6 +29,18 @@ li {
     text-align: center;
 }
 
-h2.pravila{
+h2 {
     text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
